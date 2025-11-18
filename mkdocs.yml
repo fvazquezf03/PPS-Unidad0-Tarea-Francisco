@@ -1,0 +1,27 @@
+# mkdocs.yml
+
+# -------------------------------------------------------------
+# CONFIGURACIÓN GENERAL DEL SITIO
+# -------------------------------------------------------------
+site_name: Documentación de Calculadora Python
+
+# -------------------------------------------------------------
+# ESTRUCTURA DE NAVEGACIÓN (MENÚ)
+# -------------------------------------------------------------
+# Define la lista de enlaces y el orden de aparición en el menú de navegación principal.
+nav:
+  - Inicio: index.md
+  - Git: git.md
+  - GitHub Actions: gitActions.md
+  - GitHub Pages: gitPages.md
+  - Docker: docker.md
+  - Conclusiones: conclusiones.md
+  # Se pueden añadir subsecciones anidando listas:
+  # - Referencia:
+  #     - Funciones: referencia/funciones.md
+  #     - Clases: referencia/clases.md
+
+# -------------------------------------------------------------
+# DIRECTORIOS
+# -------------------------------------------------------------
+docs_dir: docs 
