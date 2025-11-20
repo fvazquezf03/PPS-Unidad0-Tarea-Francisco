@@ -74,4 +74,5 @@ git push origin main
 ```
 2. Lo comprobamos en github
 
+<img width="393" height="192" alt="image" src="https://github.com/user-attachments/assets/375f1c0d-9c92-4a71-9b98-2d181a8fd278" />
 
