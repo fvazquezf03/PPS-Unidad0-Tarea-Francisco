@@ -18,7 +18,10 @@ services:
 ```bash 
 docker-compose up -d
 ```
+![Creación de todo](imagenes/crear docker-compose.png)
+
 3. Comprobamos que funcionas entrando en la url( http://localhost:8085)
+![Página funcionando](imagenes/Página con docker.png)
 
 
 
