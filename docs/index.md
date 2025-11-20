@@ -1,9 +1,8 @@
-# PPS – Unidad 0 – Tarea
-
 # Tarea PPS Unidad 0 - Francisco Vázquez
 
 ## Introducción
 En esta tarea se documentan los procesos de:
+
 - Creación de un repositorio Git.
 - Configuración de un workflow en GitHub Actions para MkDocs.
 - Publicación de la documentación mediante un contenedor NGINX.
