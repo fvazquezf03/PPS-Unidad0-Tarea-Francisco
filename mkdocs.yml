@@ -3,7 +3,7 @@
 # -------------------------------------------------------------
 # CONFIGURACIÓN GENERAL DEL SITIO
 # -------------------------------------------------------------
-site_name: Documentación de Calculadora Python
+site_name: Documentación de la Actividad
 
 # -------------------------------------------------------------
 # ESTRUCTURA DE NAVEGACIÓN (MENÚ)
@@ -16,11 +16,6 @@ nav:
   - GitHub Pages: gitPages.md
   - Docker: docker.md
   - Conclusiones: conclusiones.md
-  # Se pueden añadir subsecciones anidando listas:
-  # - Referencia:
-  #     - Funciones: referencia/funciones.md
-  #     - Clases: referencia/clases.md
-
 # -------------------------------------------------------------
 # DIRECTORIOS
 # -------------------------------------------------------------
