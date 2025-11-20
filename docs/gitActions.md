@@ -32,8 +32,8 @@ nav:
 docs_dir: docs 
 ```
 # El Paso 2 Configuración de la Pipeline
-1.Creación del Workflow: Dentro del directorio .github/, crea el directorio workflows/ y dentro de él, el archivo deploy_docs.yml
-2.Dentro del archivo deploy_docs.yml ponemos lo siguiente
+1. Creación del Workflow: Dentro del directorio .github/, crea el directorio workflows/ y dentro de él, el archivo deploy_docs.yml
+2. Dentro del archivo deploy_docs.yml ponemos lo siguiente
 ```bash
 name: Deploy MkDocs
 on:
