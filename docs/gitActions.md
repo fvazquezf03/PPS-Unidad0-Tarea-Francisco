@@ -65,7 +65,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-#Paso 3: Vamos a ejecutarlo para comprobar que funciona
+# Paso 3: Vamos a ejecutarlo para comprobar que funciona
 1. Hacemos un commit
 ```bash
 git add .
